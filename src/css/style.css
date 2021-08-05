@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,300&display=swap");
+ #header .banner-one {
+  min-height: 700px;
+  background-image: url(../images/plane.jpg);
+  background-repeat: no-repeat;
+  background-position: left;
+  background-size: cover;
+  object-fit: contain; }
+
+  /* #header{
+    min-height: 700px;
+    background-image: url(../images/plane.jpg);
+        background-repeat: no-repeat;
+        background-position: left;
+        background-size: cover;
+        object-fit: contain;
+  } */
+
+  .navbar-primary{
+    background: #000;
+}
+
+.navbar-primary li a{
+  color: #fff;
+}
+
+.navbar-secondary li a{
+  color: #301d44;
+  font-size: 15px;
+}
+
